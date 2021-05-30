@@ -1,0 +1,50 @@
+{"level":30,"time":"2021-04-27T03:42:47.864Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Listening on 58217"}
+{"level":30,"time":"2021-04-27T03:42:49.565Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Changed active context"}
+{"level":30,"time":"2021-04-27T03:42:50.086Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Video path: undefined"}
+{"level":30,"time":"2021-04-27T03:42:50.086Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Changed active page"}
+{"level":30,"time":"2021-04-27T03:42:53.744Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Changed active context"}
+{"level":30,"time":"2021-04-27T03:42:53.745Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Changing current active page"}
+{"level":30,"time":"2021-04-27T03:42:53.745Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Changed active page"}
+{"level":30,"time":"2021-04-27T03:42:53.770Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Changed active context"}
+{"level":30,"time":"2021-04-27T03:42:53.770Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Changing current active page"}
+{"level":30,"time":"2021-04-27T03:42:53.770Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Changed active page"}
+{"level":30,"time":"2021-04-27T03:42:54.780Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Changed active context"}
+{"level":30,"time":"2021-04-27T03:42:55.218Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Video path: undefined"}
+{"level":30,"time":"2021-04-27T03:42:55.218Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Changed active page"}
+{"level":30,"time":"2021-04-27T03:42:58.263Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Retrieved dom property for element css=.is-danger .message-body containing Opps! Dados de acesso incorretos!"}
+{"level":30,"time":"2021-04-27T03:42:58.684Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Changed active context"}
+{"level":30,"time":"2021-04-27T03:42:58.685Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Changing current active page"}
+{"level":30,"time":"2021-04-27T03:42:58.685Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Changed active page"}
+{"level":30,"time":"2021-04-27T03:42:58.710Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Changed active context"}
+{"level":30,"time":"2021-04-27T03:42:58.711Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Changing current active page"}
+{"level":30,"time":"2021-04-27T03:42:58.711Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Changed active page"}
+{"level":30,"time":"2021-04-27T03:42:59.774Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Changed active context"}
+{"level":30,"time":"2021-04-27T03:43:00.257Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Video path: undefined"}
+{"level":30,"time":"2021-04-27T03:43:00.257Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Changed active page"}
+{"level":30,"time":"2021-04-27T03:43:03.066Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Retrieved dom property for element css=.is-danger .message-body containing Opps! Dados de acesso incorretos!"}
+{"level":30,"time":"2021-04-27T03:43:03.469Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Changed active context"}
+{"level":30,"time":"2021-04-27T03:43:03.469Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Changing current active page"}
+{"level":30,"time":"2021-04-27T03:43:03.469Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Changed active page"}
+{"level":30,"time":"2021-04-27T03:43:03.494Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Changed active context"}
+{"level":30,"time":"2021-04-27T03:43:03.494Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Changing current active page"}
+{"level":30,"time":"2021-04-27T03:43:03.494Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Changed active page"}
+{"level":30,"time":"2021-04-27T03:43:04.617Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Changed active context"}
+{"level":30,"time":"2021-04-27T03:43:05.093Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Video path: undefined"}
+{"level":30,"time":"2021-04-27T03:43:05.093Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Changed active page"}
+{"level":30,"time":"2021-04-27T03:43:07.832Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Retrieved dom property for element css=.is-danger .message-body containing Opps! Dados de acesso incorretos!"}
+{"level":30,"time":"2021-04-27T03:43:08.228Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Changed active context"}
+{"level":30,"time":"2021-04-27T03:43:08.228Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Changing current active page"}
+{"level":30,"time":"2021-04-27T03:43:08.228Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Changed active page"}
+{"level":30,"time":"2021-04-27T03:43:08.252Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Changed active context"}
+{"level":30,"time":"2021-04-27T03:43:08.252Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Changing current active page"}
+{"level":30,"time":"2021-04-27T03:43:08.252Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Changed active page"}
+{"level":30,"time":"2021-04-27T03:43:09.302Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Changed active context"}
+{"level":30,"time":"2021-04-27T03:43:09.791Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Video path: undefined"}
+{"level":30,"time":"2021-04-27T03:43:09.791Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Changed active page"}
+{"level":30,"time":"2021-04-27T03:43:12.695Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Retrieved dom property for element css=.is-danger .message-body containing Opps! Dados de acesso incorretos!"}
+{"level":30,"time":"2021-04-27T03:43:13.080Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Changed active context"}
+{"level":30,"time":"2021-04-27T03:43:13.080Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Changing current active page"}
+{"level":30,"time":"2021-04-27T03:43:13.080Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Changed active page"}
+{"level":30,"time":"2021-04-27T03:43:13.103Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Changed active context"}
+{"level":30,"time":"2021-04-27T03:43:13.103Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Changing current active page"}
+{"level":30,"time":"2021-04-27T03:43:13.103Z","pid":17904,"hostname":"CASSIA-NOTE","msg":"Changed active page"}
